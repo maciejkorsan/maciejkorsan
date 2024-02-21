@@ -4,13 +4,13 @@
 
 - 18 years of experience in building web solutions
 - Design system / component thinking on board
-- TailwindCSS hacker
+- TailwindCSS hacker - I've created an online course about it: https://devbites.pl/kursy/tailwind-css/
 - UI engineer with a focus on accessibility & visual part of frontend
 - Love to talk & work with the designers
 - Pixel-perfect eye
 - Design system lover
 - Frontend/UI team leader
-- Owner of 1900+ students online frontend school
+- Owner of 1900+ students online frontend school - https://cotenfrontend.pl
 
 
 ## The longer story:
