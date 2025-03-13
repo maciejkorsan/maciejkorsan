@@ -1,3 +1,5 @@
+Hi 👋
+
 TL;DR
 
 - 20 years of experience in building web solutions
